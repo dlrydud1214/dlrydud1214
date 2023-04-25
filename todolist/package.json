@@ -47,5 +47,6 @@
     "@svgr/cli": "^7.0.0",
     "@types/styled-components": "^5.1.26",
     "tsconfig-paths-webpack-plugin": "^4.0.1"
-  }
+  },
+  "homepage": "http://codingapple.com/blog"
 }
