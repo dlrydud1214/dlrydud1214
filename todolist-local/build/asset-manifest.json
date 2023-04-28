@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.8afe137a.js",
+    "static/js/787.97a945da.chunk.js": "/static/js/787.97a945da.chunk.js",
+    "index.html": "/index.html",
+    "static/media/tab-delete.svg": "/static/media/tab-delete.0ca73c93baea74e284918de48836d675.svg",
+    "static/media/tab-checkbox.svg": "/static/media/tab-checkbox.011146d3c2e4744d444f02f28ae6f78d.svg",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.8afe137a.js.map": "/static/js/main.8afe137a.js.map",
+    "787.97a945da.chunk.js.map": "/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8afe137a.js"
+  ]
+}
