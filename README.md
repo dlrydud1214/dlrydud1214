@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://dlrydud1214.github.io/dlrydud1214/todolist-local/build/
 
 <!--
 **dlrydud1214/dlrydud1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
